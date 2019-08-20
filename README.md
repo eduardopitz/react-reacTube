@@ -1,4 +1,4 @@
-#### Consumindo a API (v3) do Youtube com ReactJs
+### Consumindo a API (v3) do Youtube com ReactJs
 
 Esse é meu primeiro projeto saindo do ES5 e utilizando React. Esse projeto consome a API (v3) do Youtube e exibe os vídeos encontrados, deixei minha chave exposta nesse projeto para facilitar a utilização (vale ressaltar que essa abordagem é péssima para tokens importantes). O projeto não conta com uma interface tão amigável, tendo em vista que esse não é o foco aqui. 
 
