@@ -11,10 +11,10 @@ const VideoItem = ({ video, onVideoSelect }) => {
                 {video.snippet.title} 
 
                 <div className="meta">
-                    <span className="date">Joined in 2013</span>
+                    <span className="date"> {video.snippet.publishedAt} </span>
                 </div>
                 <div className="description">
-                    Kristy is an art director living in New York.
+                    {video.snippet.description}
                 </div>
             </div>
         </div>
